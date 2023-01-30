@@ -2,4 +2,4 @@
 
 Status: Em andamento;
 
-Portfólio sendo criado para concluir o curso "HTML e CSS para Iniciantes" da Origamid. 
+Portfólio criado em acompanhamento as aulas do curso "HTML e CSS para Iniciantes" da Origamid. 
